@@ -59,7 +59,7 @@ setup(
     install_requires=requirements,
     entry_points={
         'console_scripts': [
-            'backup-nextcloud-s3=backup_scripts.main:main',
+            'backup-nextcloud-s3=backup_scripts.nextcloud.s3:main',
         ],
     },
     license="MIT",

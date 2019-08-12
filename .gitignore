@@ -107,4 +107,4 @@ venv.bak/
 .idea/
 
 # Configuration files
-conf/*.conf
+conf/*.ini
